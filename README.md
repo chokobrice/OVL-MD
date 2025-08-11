@@ -1,0 +1,10 @@
+PREFIXE=😈
+NOM_OWNER=Chõkø
+NUMERO_OWNER=237656930533
+MODE=public
+SESSION_ID=Ovl-MD_5yNuaoeS_SESSION-ID
+DATABASE=postgresql://postgres.yqdvmzzsnqsceekyzlij:[YOUR-chokobriceval@aws-0-eu-west-3.pooler.supabase.com:5432/postgres
+LEVEL_UP=non
+STICKER_PACK_NAME=Wa-sticker
+STICKER_AUTHOR_NAME=OVL-MD
+RENDER_API_KEY=rnd_1ghOO9ApCeJIUVMmu3I3xpLMp4up
